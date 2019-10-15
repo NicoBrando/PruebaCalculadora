@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PruebaCalculadora</string>
+    <string name="btn1">Suma</string>
+    <string name="btn2">Resta</string>
+    <string name="btn3">Multiplicar</string>
+    <string name="btn4">Dividir</string>
+
+</resources>
